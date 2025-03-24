@@ -1,1 +1,1 @@
-# Educa-o
+Estudos sobre educação.
